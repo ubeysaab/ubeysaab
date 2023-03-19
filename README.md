@@ -6,25 +6,25 @@
 
 
 ### 🌱 I’m currently learning 
-<p align="left">
+<!-- <p align="left"> -->
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</p>
+<!-- </p> -->
 
 
-target="_blank"
+
 
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left"> -->
 <a href="https://linkedin.com/in/ubeysaab" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ubey-saab-6294b41b8/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aboosh_sa262000" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aboosh_sa262000" height="30" width="40" /></a>
 <a href="https://leetcode.com/ubeysaab/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ubeysaab/" height="30" width="40" /></a>
-</p>
+<!-- </p> -->
 
 
 
