@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ubey</h1>
-<h3 align="center">A passionate Computer Engineer</h3>
 
-- 🌱 I’m currently learning <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<h3 >A passionate Computer & software  Engineer </h3>
+<img align='right' width="400" height="300" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+
+
+### 🌱 I’m currently learning <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -38,7 +42,7 @@
 <div>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ubeysaab&show_icons=true&locale=en" alt="ubeysaab" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ubeysaab&" alt="ubeysaab" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ubeysaab&" alt="ubeysaab" /></p>
 </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=hello)](https://github.com/ubeysaab/github-readme-quotes)
