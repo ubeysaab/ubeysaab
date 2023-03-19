@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ubey</h1>
-
-<h3 >A passionate Computer & software  Engineer </h3>
+<div>
+<h3 >A passionate Computer & software  Engineer 🔭 </h3>
 <img align='right' width="400" height="300" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
@@ -26,6 +26,9 @@
 <a href="https://leetcode.com/ubeysaab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ubeysaab/" height="30" width="40" /></a>
 </p>
 
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -38,15 +41,16 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 </p>
-
-<div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ubeysaab&show_icons=true&locale=en" alt="ubeysaab" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ubeysaab&" alt="ubeysaab" /></p>
 </div>
+<hr>
+<!-- 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ubeysaab&show_icons=true&locale=en" alt="ubeysaab" /></p>
+<br> 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=hello)](https://github.com/ubeysaab/github-readme-quotes)
+<p align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ubeysaab&" alt="ubeysaab" /></p>  -->
 
 
+<!--  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&quote=hello)](https://github.com/ubeysaab/github-readme-quotes)  -->
 
+ 
 
