@@ -50,7 +50,7 @@
 <img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
  
  
- [![Ubey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ubeysaab&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--  [![Ubey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ubeysaab&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
  
  
 
