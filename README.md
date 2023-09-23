@@ -1,6 +1,6 @@
 # <img  align="center" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width='7%'/>  I'm Ubey
 <div>
-<h3 >A passionate Computer & Software  Engineer 🔭 </h3>
+<h3 >A passionate Dude with a Computer 🔭 </h3>
 <img align='right' width="400" height="300" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
