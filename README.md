@@ -13,7 +13,6 @@
 
 
 <!-- </p> -->
-https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg
 
 
 
