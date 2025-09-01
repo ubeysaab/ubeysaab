@@ -12,7 +12,7 @@ let readme = fs.readFileSync("README.md", "utf-8");
 // Replace old quote with new one
 const newContent = readme.replace(
   /(<!-- QUOTE_START -->)([\s\S]*?)(<!-- QUOTE_END -->)/,
-  `<!-- QUOTE_START -->\n💡 ${randomQuote}\n<!-- QUOTE_END -->`
+  `<!-- QUOTE_START -->\n ${randomQuote}\n<!-- QUOTE_END -->`
 );
 
 // Save updated README
