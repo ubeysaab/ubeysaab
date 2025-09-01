@@ -48,7 +48,7 @@
 ### 💡 Quote
 
 <!-- QUOTE_START -->
-A random quote will appear here daily.
+💡 Keep striving for progress over perfection.
 <!-- QUOTE_END -->
 
 
