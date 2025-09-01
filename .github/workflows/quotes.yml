@@ -1,0 +1,35 @@
+name: Update Random Quote
+
+# When to run this workflow
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at 00:00 UTC
+  workflow_dispatch:       # allows you to run manually from GitHub Actions tab
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest   # environment GitHub provides
+
+    steps:
+      # Step 1: Checkout repo files so workflow can access them
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Setup Node.js environment (we need Node to run your script)
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      # Step 3: Run your JS script that updates README
+      - name: Run random quote script
+        run: node random-quote.js
+
+      # Step 4: Commit and push updated README
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Update random quote"
+          git push
