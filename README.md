@@ -48,7 +48,7 @@
 ### 💡 Quote
 
 <!-- QUOTE_START -->
- Keep striving for progress over perfection.
+ Simplicity beats cleverness.
 <!-- QUOTE_END -->
 
 
